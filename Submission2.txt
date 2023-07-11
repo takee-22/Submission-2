@@ -1,0 +1,17 @@
+Link to unlisted YouTube video:
+https://www.youtube.com/watch?v=C0TSVLBV6zE
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1G_4H4RfX-wj7JP6Laa_6kkNnMrvlM8oIunwet0779Xc/edit?usp=sharing
+
+Paper title:
+OpenContrails: Benchmarking Contrail Detection on GOES-16 ABI
+
+Link to the paper:
+https://paperswithcode.com/paper/opencontrails-benchmarking-contrail-detection
+
+Group Number:
+20
+
+Individual Submitter:
+20101609 Tahmidul Karim Takee
